@@ -1,5 +1,5 @@
 /* Derivarium · service worker: deja la app instalada disponible sin conexión. */
-const CACHE = 'derivarium-v1';
+const CACHE = 'derivarium-v5';
 const SHELL = ['.', './manifest.json', './icon-192.png', './icon-512.png', './icon-512-maskable.png', './icon-180.png'];
 
 self.addEventListener('install', e => {

@@ -40,3 +40,7 @@ subirlos) y haz commit; GitHub Pages se actualiza solo en un minuto.
 - `manifest.json` — nombre, ícono y colores de la app instalable.
 - `sw.js` — service worker: cachea el juego para que abra sin conexión.
 - `icon-192.png`, `icon-512.png`, `icon-512-maskable.png`, `icon-180.png` — íconos de la app.
+
+## Novedades (versión 8 bits)
+
+El héroe, Difo y las princesas ahora son pixel art 8 bits generado por código (no hay imágenes sueltas). El ícono de la app es el dragoncito Difo. Si ya tenías la app instalada, ciérrala y ábrela una vez con internet para que se actualice el caché (`derivarium-v5`).
